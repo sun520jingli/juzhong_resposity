@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is free ¹þ¹þ¹þ software.
-Git is stupid
+Git is stupideded
