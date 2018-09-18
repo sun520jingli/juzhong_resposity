@@ -5,4 +5,9 @@ Git is stupideded
 Git is stupideded haha
 123123123
 123
+<<<<<<< Updated upstream
 12313124
+=======
+12313123
+123
+>>>>>>> Stashed changes
